@@ -53,7 +53,7 @@ These implementations are for learning purposes. They may be less efficient than
 
 ## Contribution Guidelines
 
-Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
+Read our [Contribution Guidelines](https://github.com/BearHunter49/Python/blob/a29a2a3a0698e936d7275e2c02d3c0c6e478cb4c/CONTRIBUTING.md) before you contribute.
 
 ## Community Channel
 
@@ -61,4 +61,4 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
 
 ## List of Algorithms
 
-See our [directory](DIRECTORY.md).
+See our [directory](https://github.com/BearHunter49/Python/blob/a29a2a3a0698e936d7275e2c02d3c0c6e478cb4c/DIRECTORY.md).
