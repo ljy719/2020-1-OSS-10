@@ -1,6 +1,3 @@
 [submodule "visuaudio"]
 	path = visuaudio
 	url = https://github.com/BearHunter49/visuaudio.git
-[submodule "Python"]
-	path = Python
-	url = https://github.com/BearHunter49/Python.git
