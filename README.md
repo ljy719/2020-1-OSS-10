@@ -1,11 +1,26 @@
 # 2020-1-OSS Team 10
-### **Team**
-팀장: 서주원<br>
-팀원: 주원규, 장병우, 이지영, 김광원
+- [Static Page](#static_page)
+- [Team](#about_team)
+- [Our Project](#about_project)
+
+## <div id="static_page">Static Page</div>
+https://20-1-skku-oss.github.io/2020-1-OSS-10/
+
+## <div id="about_team">Team</div>
+### 팀장
+서주원<br>
+
+### 팀원 
+주원규 
+장병우
+이지영
+김광원
 
 <br>
 <br>
 <br>
+
+## <div id="about_project">Project</div>
 
 # visuaudio
 ### A fun GUI application to visualize audio spectrum
