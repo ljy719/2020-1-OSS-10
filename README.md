@@ -11,18 +11,16 @@ https://20-1-skku-oss.github.io/2020-1-OSS-10/
 서주원<br>
 
 ### 팀원 
-주원규 
-장병우
-이지영
+주원규 <br>
+장병우<br>
+이지영<br>
 김광원
 
 <br>
 <br>
 <br>
 
-## <div id="about_project">Project</div>
-
-# visuaudio
+# <div id="about_project">visuaudio</div>
 ### A fun GUI application to visualize audio spectrum
 <b>https://github.com/irahorecka/visuaudio</b>
 
