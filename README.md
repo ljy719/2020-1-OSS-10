@@ -8,19 +8,28 @@ https://20-1-skku-oss.github.io/2020-1-OSS-10/
 
 ## <div id="about_team">Team</div>
 ### 팀장
-서주원<br>
++서주원<br>
+>Github : BreadHunter49 <br><br>
 
 ### 팀원 
-주원규 <br>
-장병우<br>
-이지영<br>
-김광원
++주원규 <br>
+>Github : jwk6553 <br><br>
+
++장병우<br>
+>onion-Ring <br><br>
+
++이지영<br>
+>Github : ljy719 <br><br>
+
++김광원<br>
+>Github : one0955
+
 
 <br>
 <br>
 <br>
 
-# <div id="about_project">visuaudio</div>
+## <div id="about_project">visuaudio</div>
 ### A fun GUI application to visualize audio spectrum
 <b>https://github.com/irahorecka/visuaudio</b>
 
